@@ -14,6 +14,7 @@ export function App () {
         refreshFact()
     }
 
+    console.log(imageUrl)
 
     return ( 
         <main>
